@@ -19,3 +19,16 @@ MBclaw 是一个让 AI 拥有长期记忆能力的系统。不仅记住聊天记
 | [06-三层客户端方案](docs/06-three-tier-client.md) | 非Root/Root/系统镜像三种模式 |
 | [07-经验总结](docs/07-lessons-learned.md) | 技术决策与踩坑记录 |
 | [08-OpenClaw参考](docs/08-openclaw-reference.md) | OpenClaw 架构分析与可借鉴模式 |
+
+## 中文版
+
+| 文档 | 内容 |
+|------|------|
+| [01-项目愿景与目标](docs/zh/01-vision.md) | 为什么要做 MBclaw，核心目标 |
+| [02-MBclaw-Lite MVP架构](docs/zh/02-mbclaw-lite-architecture.md) | FastAPI + SQLite 长期记忆核心设计（含 Phase 2） |
+| [03-miclaw融合方案](docs/zh/03-miclaw-integration.md) | MBclaw × miclaw Android 融合架构 |
+| [04-系统镜像集成](docs/zh/04-system-image-integration.md) | 系统级部署方案 |
+| [05-MiMo纠错审查](docs/zh/05-mimo-review.md) | MiMo 视角的架构纠错 |
+| [06-三层客户端方案](docs/zh/06-three-tier-client.md) | 非Root/Root/系统镜像三种模式 |
+| [07-经验总结](docs/zh/07-lessons-learned.md) | 技术决策与踩坑记录 |
+| [08-OpenClaw参考](docs/zh/08-openclaw-reference.md) | OpenClaw 架构分析与可借鉴模式（含实现状态） |
