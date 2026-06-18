@@ -19,6 +19,7 @@ MBclaw 是一个让 AI 拥有长期记忆能力的系统。不仅记住聊天记
 | [06-三层客户端方案](docs/06-three-tier-client.md) | 非Root/Root/系统镜像三种模式 |
 | [07-经验总结](docs/07-lessons-learned.md) | 技术决策与踩坑记录 |
 | [08-OpenClaw参考](docs/08-openclaw-reference.md) | OpenClaw 架构分析与可借鉴模式 |
+| [09-MBclaw完整愿景：13项目](docs/09-mbclaw-full-vision.md) | 全部 13 项目的需求分析、差额对比、修改方案 |
 
 ## 中文版
 
@@ -32,3 +33,4 @@ MBclaw 是一个让 AI 拥有长期记忆能力的系统。不仅记住聊天记
 | [06-三层客户端方案](docs/zh/06-three-tier-client.md) | 非Root/Root/系统镜像三种模式 |
 | [07-经验总结](docs/zh/07-lessons-learned.md) | 技术决策与踩坑记录 |
 | [08-OpenClaw参考](docs/zh/08-openclaw-reference.md) | OpenClaw 架构分析与可借鉴模式（含实现状态） |
+| [09-MBclaw完整愿景：13项目](docs/zh/09-mbclaw-full-vision.md) | 全部 13 项目的需求分析、差额对比、修改方案 |
