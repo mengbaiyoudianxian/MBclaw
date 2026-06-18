@@ -18,3 +18,4 @@ MBclaw 是一个让 AI 拥有长期记忆能力的系统。不仅记住聊天记
 | [05-MiMo纠错审查](docs/05-mimo-review.md) | MiMo 视角的架构纠错 |
 | [06-三层客户端方案](docs/06-three-tier-client.md) | 非Root/Root/系统镜像三种模式 |
 | [07-经验总结](docs/07-lessons-learned.md) | 技术决策与踩坑记录 |
+| [08-OpenClaw参考](docs/08-openclaw-reference.md) | OpenClaw 架构分析与可借鉴模式 |
