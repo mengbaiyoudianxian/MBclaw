@@ -21,6 +21,7 @@ MBclaw 是一个让 AI 拥有长期记忆能力的系统。不仅记住聊天记
 | [08-OpenClaw参考](docs/08-openclaw-reference.md) | OpenClaw 架构分析与可借鉴模式 |
 | [09-MBclaw完整愿景：13项目](docs/09-mbclaw-full-vision.md) | 全部 13 项目的需求分析、差额对比、修改方案（修订版） |
 | [10-长期记忆系统制造蓝图](docs/10-memory-system-blueprint.md) | 完整制造规范：15 表 Schema、30+ API、数据流、算法 |
+| [**11-完整实现状态**](docs/11-implementation-status.md) | 🔥 33/34 项目完成，代码规模、测试覆盖、逐项状态 |
 
 ## 中文版
 
@@ -36,3 +37,4 @@ MBclaw 是一个让 AI 拥有长期记忆能力的系统。不仅记住聊天记
 | [08-OpenClaw参考](docs/zh/08-openclaw-reference.md) | OpenClaw 架构分析与可借鉴模式（含实现状态） |
 | [09-MBclaw完整愿景：13项目](docs/zh/09-mbclaw-full-vision.md) | 全部 13 项目的需求分析、差额对比、修改方案（修订版） |
 | [10-长期记忆系统制造蓝图](docs/zh/10-memory-system-blueprint.md) | 完整制造规范：15 表 Schema、30+ API、数据流、算法 |
+| [**11-完整实现状态**](docs/zh/11-implementation-status.md) | 🔥 33/34 项目完成，代码规模、测试覆盖、逐项状态 |
