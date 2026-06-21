@@ -23,14 +23,25 @@
 
 由 Claude（CTO 角色）完成审计与裁剪。新设计入口：
 
+### 🔥 R0 当前版本（按此执行）
 | 文档 | 用途 |
 |---|---|
-| [`design/audit/AUDIT-2026-06-21.md`](design/audit/AUDIT-2026-06-21.md) | 现状审计（10379 行 Lite 的真实评估） |
-| [`design/mvp/MVP-v2.md`](design/mvp/MVP-v2.md) | 重新定义的 MVP 边界（**裁剪 70%**） |
-| [`design/architecture/ARCH-v2.md`](design/architecture/ARCH-v2.md) | 收敛后架构（7 服务，非 39 服务） |
-| [`design/database/SCHEMA-v2.md`](design/database/SCHEMA-v2.md) | 核心数据模型（8 张表，非 24 张） |
-| [`design/agent/AGENT-v2.md`](design/agent/AGENT-v2.md) | Agent 设计（单循环 + 工具子集） |
-| [`design/roadmap/ROADMAP-v2.md`](design/roadmap/ROADMAP-v2.md) | R0→R3 路线图 |
+| [`design/roadmap/DEV-PLAN-r0.md`](design/roadmap/DEV-PLAN-r0.md) | **执行 AI 入口**：18 个任务 + 1 周日程 + 风险清单 |
+| [`design/audit/SURVIVAL-REVIEW-2026-06-21.md`](design/audit/SURVIVAL-REVIEW-2026-06-21.md) | 生死级评审：值得做、形态错、定位收窄 |
+| [`design/mvp/MVP-r0-1week.md`](design/mvp/MVP-r0-1week.md) | 5 功能 / ≤1500 行 / 1 周 |
+| [`design/architecture/ARCH-r0.md`](design/architecture/ARCH-r0.md) | 7 文件单进程架构 + 技术选型 |
+| [`design/memory/MEMORY-SYSTEM-r0.md`](design/memory/MEMORY-SYSTEM-r0.md) | 长期记忆系统（5 表 + 2 FTS + experiences） |
+| [`design/agent/AGENT-r0.md`](design/agent/AGENT-r0.md) | Agent 评审（R0/R1 无 Agent，6 反模式禁止） |
+
+### 历史版本（保留参考）
+| 文档 | 状态 |
+|---|---|
+| [`design/audit/AUDIT-2026-06-21.md`](design/audit/AUDIT-2026-06-21.md) | 首版审计 |
+| [`design/mvp/MVP-v2.md`](design/mvp/MVP-v2.md) | 已被 MVP-r0 取代 |
+| [`design/architecture/ARCH-v2.md`](design/architecture/ARCH-v2.md) | 已被 ARCH-r0 取代 |
+| [`design/database/SCHEMA-v2.md`](design/database/SCHEMA-v2.md) | 已被 MEMORY-SYSTEM-r0 取代 |
+| [`design/agent/AGENT-v2.md`](design/agent/AGENT-v2.md) | 已被 AGENT-r0 取代 |
+| [`design/roadmap/ROADMAP-v2.md`](design/roadmap/ROADMAP-v2.md) | 已被 DEV-PLAN-r0 取代 |
 
 ## 历史文档（仅作参考，未必反映现行决策）
 
